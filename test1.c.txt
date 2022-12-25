@@ -1,0 +1,4 @@
+命令行往仓库提交代码
+git add  路径
+git commit -m "注释"
+git push
